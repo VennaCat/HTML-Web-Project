@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Room emojies</title>
+<style>
+a { color: white; } </style>
+</head>
+<body>
+
+<h1>Emojies!</h1>
+<p>You must click the emojies that I say..!</p>
+<p>The mouse!</p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/k">🐭️ </a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/h">🐵️ </a> </p>
+
+</body>
+</html> 

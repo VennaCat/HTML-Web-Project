@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Room emojies</title>
+<style>
+a { color: white; } </style>
+</head>
+<body>
+
+<h1>More emojies!</h1>
+<p>The cow!</p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/m">🐮️ </a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/m">🐮️ </a> </p>
+
+</body>
+</html> 

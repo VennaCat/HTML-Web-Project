@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Code Lock</title>
+
+</head>
+<body>
+
+<h1>Why did you click it?</h1>
+<p>But it doesn't matter since the code is impossible to figure out.</p>
+<p>So you must enter the currect code to enter the room.</p>
+<p> <a href="file:/home/sofia/HTML Projects/Enter the Room/wrong">Code is enter. </a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Enter the Room/3">Code is code. </a> </p>
+
+</body>
+</html> 

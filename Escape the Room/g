@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Room 6</title>
+<style>
+a { color: black; } </style>
+</head>
+<body>
+
+<h1>Fine.</h1>
+<p>Maybe a puzzle will stop you.<a href="file:/home/sofia/HTML Projects/Escape the Room/h">Click here to choose a puzzle.</a> </p>
+
+</body>
+</html> 

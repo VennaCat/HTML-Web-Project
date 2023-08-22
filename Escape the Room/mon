@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Money</title>
+<style>
+a { color: black; } </style>
+</head>
+<body>
+
+<h1>Would you rather</h1>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/e">Have 1 million euroes right now </a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/i">Have 1 euro but double it everyday untill year 2033</a> </p>
+
+
+</body>
+</html> 

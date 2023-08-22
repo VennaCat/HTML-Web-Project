@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Room 5</title>
+<style>
+a { color: white;
+ background:blue;} </style>
+</head>
+<body>
+
+<h1>Ok that's it</h1>
+<p>I am <a href="file:/home/sofia/HTML Projects/Escape the Room/d">amused</a> of how did you do it so<a href="file:/home/sofia/HTML Projects/Escape the Room/b">fast</a> ...but not this time!</p>
+<p>Things <a href="file:/home/sofia/HTML Projects/Escape the Room/e"">like </a> me don't give <a href="file:/home/sofia/HTML Projects/Escape the Room/a">up</a> . </p>
+<p>I have an <a href="file:/home/sofia/HTML Projects/Escape the Room/c" >challenge</a> for you!
+<p>You must find the correct word in these <a href="file:/home/sofia/HTML Projects/Escape the Room/a">text</a> . <p>
+<p>But it's almost <a href="file:/home/sofia/HTML Projects/Escape the Room/g">impossible</a> ! <p>
+<p>UHAHAHAHA<a href="file:/home/sofia/HTML Projects/Escape the Room/e">HAHAH</a> AHAHAHHAHAHHAH! <p>
+
+
+</body>
+</html> 

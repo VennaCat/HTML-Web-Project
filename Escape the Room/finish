@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Finish</title>
+<style>
+a { color: black; } </style>
+</head>
+<body>
+
+<h1>.................................................................................Finish!................................................................................</h1>
+<h1>You've past all the Rooms! You Escaped! :D </h1>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/start">Click here to go back to the start. </a> </p>
+
+</body>
+</html> 

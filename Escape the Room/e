@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Room 4</title>
+<style>
+a { color: black; } </style>
+</head>
+<body>
+
+<h1>I can't believe it (again)</h1>
+<p>Why are humans so smart...but still, not as smart as me. You won't make it to room 5 this time because it's starting to be pretty hard >:)</p>
+<p>You must find the corect <a href="file:/home/sofia/HTML Projects/Escape the Room/f">line </a> in the text bellow. I was too lazy to add color</p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/a">Click me :) </a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/c">I'm not sus</a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/d">Click me for free potatoes not scam</a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/b">Sorry that was wrong...please try ME this time.</a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/b">I promise I'm not a scammer please it was wrong again...</a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/f">Click me :) (again)</a> </p>
+<p> <a href="file:/home/sofia/HTML Projects/Escape the Room/d">Sorry my bad :( </a> </p>
+
+</body>
+</html> 
